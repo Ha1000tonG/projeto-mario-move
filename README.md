@@ -1,4 +1,4 @@
-<h2 align="center">Projeto: Menu Carossel - Mario Move</h2>
+<h2 align="center">Projeto: Tocador de Música</h2>
 
 <h3 align="center">✔️ Tecnologias e ferramentas utilizadas: </h3>
   
@@ -7,12 +7,7 @@
 
 
 # Links:
-#### :star: [`Projeto concluido:`]() 
-
+#### :star: [`Projeto concluido:`]()
 #
-Blog: Cursos Online hashtag
-
-:star: [`Clique aqui para acessar o curso:`](https://www.hashtagtreinamentos.com/projeto-web-de-javascript#aula7)
-
-#
-<div align="center"> <img src=""/></div>
+<div align="center"> <img src="https://img.shields.io/github/license/dropbox/dropbox-sdk-java"/></div>  
+<div align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=f8efd4&style=for-the-badge"/></div>
