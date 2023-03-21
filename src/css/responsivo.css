@@ -51,13 +51,18 @@
 
 @media(max-width: 425px) {
 
+    main:after {
+        background: none;
+    }
+
     .informacoes .logo {
         max-width: 250px;
         margin-bottom: 0;
     }
 
     .informacoes .descricao {
-        font-size: 15px;
+        font-size: 20px;
+        font-weight: bold;
         width: 100%;
         line-height: 30px;
     }
@@ -84,6 +89,7 @@
 
     #titulo {
         font-size: 15px;
+        font-weight: bold;
         visibility: visible;
         margin-bottom: 10px;
     }
