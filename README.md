@@ -1,4 +1,4 @@
-<h2 align="center">Projeto: Tocador de Música</h2>
+<h2 align="center">Projeto: Menu carrossel - Mario Move</h2>
 
 <h3 align="center">✔️ Tecnologias e ferramentas utilizadas: </h3>
   
