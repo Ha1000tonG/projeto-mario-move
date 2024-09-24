@@ -1,5 +1,8 @@
 <h2 align="center">Projeto: Botões-Carrossel - Mario Move</h2>
 
+<div align="center"> <img src= "" width="400" height="300"/></div>    
+
+#
 Este projeto consiste na implementação de um carrossel interativo com botões de navegação que permite ao usuário alternar entre diferentes slides de conteúdo.  
 A interface foi inspirada no design de elementos de interface gráfica comuns em apresentações ou exibições de conteúdo, como banners em sites.
 
@@ -21,10 +24,13 @@ O objetivo principal é proporcionar uma experiência visual dinâmica e intuiti
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC"/>  
 
+#
+ HTML5: Para a estruturação do conteúdo.  
+ CSS3: Para o estilo e a criação de animações de transição suaves entre os slides.  
+ JavaScript: Para a funcionalidade de navegação dos botões e controle do carrossel  
 
 
-
-# Links:
+## Links:
 
 #### :star: [Acessar o Projeto:](https://ha1000tong.github.io/projeto-mario-move/)
 
