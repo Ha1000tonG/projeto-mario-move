@@ -7,7 +7,9 @@
 
 
 # Links:
-#### :star: <a href="https://ha1000tong.github.io/projeto-mario-move/" target="_blank">Acessar o Projeto</a>
+
+#### :star: [Acessar o Projeto:](https://ha1000tong.github.io/projeto-mario-move/)
+
   
 #
 <div align="center"> <img src="https://img.shields.io/github/license/dropbox/dropbox-sdk-java"/></div>  
