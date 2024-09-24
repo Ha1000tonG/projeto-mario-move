@@ -1,9 +1,10 @@
 <h2 align="center">Projeto: Botões-Carrossel - Mario Move</h2>
 
-<div align="center"> <img src= "" width="400" height="300"/></div>    
+<div align="center"> <img src= "https://github.com/user-attachments/assets/3b9f47f0-7ede-4091-9902-1d08a1b9843b" width="400" height="200"/></div>    
 
 #
 Este projeto consiste na implementação de um carrossel interativo com botões de navegação que permite ao usuário alternar entre diferentes slides de conteúdo.  
+
 A interface foi inspirada no design de elementos de interface gráfica comuns em apresentações ou exibições de conteúdo, como banners em sites.
 
 No exemplo exibido, o carrossel apresenta uma imagem do filme "Super Mario Bros" com uma descrição associada.  
