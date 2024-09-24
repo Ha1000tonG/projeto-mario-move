@@ -25,9 +25,9 @@ O objetivo principal é proporcionar uma experiência visual dinâmica e intuiti
   <img align="center" alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC"/>  
 
 #
- HTML5: Para a estruturação do conteúdo.  
- CSS3: Para o estilo e a criação de animações de transição suaves entre os slides.  
- JavaScript: Para a funcionalidade de navegação dos botões e controle do carrossel  
+  * HTML5: Para a estruturação do conteúdo.
+  * CSS3: Para o estilo e a criação de animações de transição suaves entre os slides.
+  * JavaScript: Para a funcionalidade de navegação dos botões e controle do carrossel  
 
 
 ## Links:
