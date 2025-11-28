@@ -33,7 +33,7 @@ O objetivo principal é proporcionar uma experiência visual dinâmica e intuiti
 
 ## Links:
 
-#### :star: [Acessar o Projeto:](https://ha1000tong.github.io/projeto-mario-move/)
+#### :star: [Acessar o Projeto:](https://ha1000tong.github.io/projeto-carrossel-interativo/)
 
   
 #
